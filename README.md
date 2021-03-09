@@ -31,6 +31,3 @@ Note that this project uses Material UI libraries.
 
 https://material-ui.com
 
----
-
-&copy; Keith Ratner 2020
