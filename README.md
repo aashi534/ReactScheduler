@@ -1,18 +1,3 @@
-# Appointment Scheduler
-
-A ReactJS app built by Keith Ratner
-
-View live demo at https://kratner.github.io/react-appointment-scheduler
-
-**Web:** https://keithratner.live
-
-**E-Mail:** keith.ratner@gmail.com
-
-**GitHub:** https://github.com/kratner
-
-**LinkedIn:** https://www.linkedin.com/in/keithratner
-
----
 
 ## Instructions
 
