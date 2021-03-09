@@ -25,8 +25,6 @@ Click on **Start** and **End** input fields to open the Date Picker...
 
 ![Time Picker](img/timeentry.png "Time Picker")
 
-Sample data contains three records. All data modifications are volatile thus will not persist across sessions.
-
 Note that this project uses Material UI libraries.
 
 https://material-ui.com
